@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { usePathname,useParams, useSearchParams } from 'next/navigation';
 import { generatePagination } from '@/app/lib/utils';
 
-export default function Pagination({ totalPages }: { totalPages: number }) {
+export default function Pagination( totalPages ) {
 
   const pathName = usePathname()
   const searchParams = useSearchParams()
