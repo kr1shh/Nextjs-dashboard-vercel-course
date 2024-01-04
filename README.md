@@ -65,13 +65,13 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![](https://github.com/kr1shh/Nextjs-dashboard-vercel-course/tree/master/screenshots/1.png)
+![](screenshots/1.png)
 
-![](https://github.com/kr1shh/Nextjs-dashboard-vercel-course/tree/master/screenshots/2.png)
+![](screenshots/2.png)
 
-![](https://github.com/kr1shh/Nextjs-dashboard-vercel-course/tree/master/screenshots/3.png)
+![](screenshots/3.png)
 
-![](https://github.com/kr1shh/Nextjs-dashboard-vercel-course/tree/master/screenshots/4.png)
+![](screenshots/4.png)
 
-![](https://github.com/kr1shh/Nextjs-dashboard-vercel-course/tree/master/screenshots/5.png)
+![](screenshots/5.png)
 
